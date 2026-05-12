@@ -14,7 +14,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -22,7 +22,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -31,7 +31,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -40,7 +40,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -48,7 +48,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -56,7 +56,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="Jupyter" 
     title="Jupyter"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
@@ -64,7 +64,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
@@ -72,7 +72,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="C++" 
     title="C++"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
@@ -80,7 +80,7 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
@@ -88,31 +88,12 @@ Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Conc
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 
+
 <br/>
+
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-
-  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joao-Antonio12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Antonio12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
