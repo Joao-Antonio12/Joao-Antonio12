@@ -1,6 +1,6 @@
 # João Antonio Pascuini 🌾
 
-Me chamo João Antonio Pascuini, tenho 20 anos e sou natural do São Paulo. Concluí o ensino médio no Colégio Anglo. Atualmente, estou cursando Ciência da Computação na UNIFAL-MG e Agronomia na UNIASSELVI. Tenho um grande interesse por tópicos AgTechs e atualmente estou desenvolvendo um projeto de Análise de Risco Climático para pequenas propriedades.
+Me chamo João Antonio Pascuini, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Anglo. Atualmente, estou cursando Ciência da Computação na UNIFAL-MG e Agronomia na UNIASSELVI. Tenho um grande interesse por tópicos AgTechs e atualmente estou desenvolvendo um projeto de Análise de Risco Climático para pequenas propriedades.
 
 
 
